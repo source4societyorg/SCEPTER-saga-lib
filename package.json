@@ -41,15 +41,7 @@
     "testRegex": "tests/.*\\.test\\.js$"
   },
   "dependencies": {
-    "@source4society/scepter-utility-lib": "^1.1.0",
-    "immutable": "3.8.1",
-    "moment": "^2.20.1",
-    "react": "15.6.1",
-    "react-dom": "15.6.1",
-    "react-router-dom": "4.1.1",
-    "react-test-renderer": "15.6.1",
-    "redux-saga": "^0.16.0",
-    "reselect": "3.0.1"
+    "@source4society/scepter-utility-lib": "^4.1.0"
   },
   "devDependencies": {
     "babel-cli": "6.24.1",
@@ -70,14 +62,13 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
     "enzyme": "2.8.2",
-    "eslint": "3.19.0",
+    "eslint": "^5.1.0",
     "eslint-config-airbnb": "15.0.1",
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.7.0",
     "eslint-plugin-jest": "^21.5.0",
-    "eslint-plugin-jsx-a11y": "5.0.3",
-    "eslint-plugin-react": "^7.6.1",
-    "eslint-plugin-redux-saga": "^0.6.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
     "jest-cli": "21.0.0"
   }
 }
